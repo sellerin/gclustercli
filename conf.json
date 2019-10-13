@@ -1,0 +1,4 @@
+{
+    "PerfImage": "eu.gcr.io/iron-inkwell-205415/perf:latest",
+    "WatcherImage": "eu.gcr.io/iron-inkwell-205415/watcher:latest"
+}
