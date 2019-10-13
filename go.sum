@@ -75,6 +75,10 @@ github.com/sellerin/gclustercore v0.0.0-20190808171945-ef866cd91c02 h1:q2c7ImZp+
 github.com/sellerin/gclustercore v0.0.0-20190808171945-ef866cd91c02/go.mod h1:AGswKHdaUHXd5gxXk5fSDsXqvOKz0pAo522h2kaZYiI=
 github.com/sellerin/gclustercore v0.0.0-20190810064711-d556f1384e0b h1:E4Nrfta/0aRQOXkZyJbmK3DkAGwcvcyoo+/+n6Zn9Kk=
 github.com/sellerin/gclustercore v0.0.0-20190810064711-d556f1384e0b/go.mod h1:AGswKHdaUHXd5gxXk5fSDsXqvOKz0pAo522h2kaZYiI=
+github.com/sellerin/gclustercore v0.0.0-20191013080347-f2c793d96ed4 h1:qYEzWMS+eEKoJ6CnSzMB4ERl2r0QnARXXnRpQsY2lGc=
+github.com/sellerin/gclustercore v0.0.0-20191013080347-f2c793d96ed4/go.mod h1:AGswKHdaUHXd5gxXk5fSDsXqvOKz0pAo522h2kaZYiI=
+github.com/sellerin/gclustercore v0.0.0-20191013090954-7712a900c134 h1:vyLnzMo9+zuMh3teb0P6AuTg7xAtilf6gn8dB4ZF2+I=
+github.com/sellerin/gclustercore v0.0.0-20191013090954-7712a900c134/go.mod h1:AGswKHdaUHXd5gxXk5fSDsXqvOKz0pAo522h2kaZYiI=
 github.com/spf13/afero v1.1.2 h1:m8/z1t7/fwjysjQRYbP0RD+bUIF/8tJwPdEZsI83ACI=
 github.com/spf13/afero v1.1.2/go.mod h1:j4pytiNVoe2o6bmDsKpLACNPDBIoEAkihy7loJ1B0CQ=
 github.com/spf13/cast v1.3.0 h1:oget//CVOEoFewqQxwr0Ej5yjygnqGkvggSE/gB35Q8=
